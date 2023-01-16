@@ -1,4 +1,4 @@
 ### Hi there 👋
 Feel free to visit my [personal blog](https://plantsechi.netlify.app/)
 
-[![Sechi's GitHub stats](https://github-readme-stats-sechi747.vercel.app/api?username=sechi747&theme=buefy)](https://github.com/sechi747)
+[![Sechi's GitHub stats](https://github-readme-stats-kappa-orpin-50.vercel.app/api?username=sechi747&theme=buefy)](https://github.com/sechi747)
